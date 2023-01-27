@@ -1,0 +1,17 @@
+C:\Users\RaV21\source\repos\Kalkulator6\Kalkulator6\bin\Debug\net6.0-windows\Kalkulator6.exe
+C:\Users\RaV21\source\repos\Kalkulator6\Kalkulator6\bin\Debug\net6.0-windows\Kalkulator6.deps.json
+C:\Users\RaV21\source\repos\Kalkulator6\Kalkulator6\bin\Debug\net6.0-windows\Kalkulator6.runtimeconfig.json
+C:\Users\RaV21\source\repos\Kalkulator6\Kalkulator6\bin\Debug\net6.0-windows\Kalkulator6.dll
+C:\Users\RaV21\source\repos\Kalkulator6\Kalkulator6\bin\Debug\net6.0-windows\Kalkulator6.pdb
+C:\Users\RaV21\source\repos\Kalkulator6\Kalkulator6\obj\Debug\net6.0-windows\Kalkulator6.csproj.AssemblyReference.cache
+C:\Users\RaV21\source\repos\Kalkulator6\Kalkulator6\obj\Debug\net6.0-windows\Kalkulator6.Form1.resources
+C:\Users\RaV21\source\repos\Kalkulator6\Kalkulator6\obj\Debug\net6.0-windows\Kalkulator6.csproj.GenerateResource.cache
+C:\Users\RaV21\source\repos\Kalkulator6\Kalkulator6\obj\Debug\net6.0-windows\Kalkulator6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaV21\source\repos\Kalkulator6\Kalkulator6\obj\Debug\net6.0-windows\Kalkulator6.AssemblyInfoInputs.cache
+C:\Users\RaV21\source\repos\Kalkulator6\Kalkulator6\obj\Debug\net6.0-windows\Kalkulator6.AssemblyInfo.cs
+C:\Users\RaV21\source\repos\Kalkulator6\Kalkulator6\obj\Debug\net6.0-windows\Kalkulator6.csproj.CoreCompileInputs.cache
+C:\Users\RaV21\source\repos\Kalkulator6\Kalkulator6\obj\Debug\net6.0-windows\Kalkulator6.dll
+C:\Users\RaV21\source\repos\Kalkulator6\Kalkulator6\obj\Debug\net6.0-windows\refint\Kalkulator6.dll
+C:\Users\RaV21\source\repos\Kalkulator6\Kalkulator6\obj\Debug\net6.0-windows\Kalkulator6.pdb
+C:\Users\RaV21\source\repos\Kalkulator6\Kalkulator6\obj\Debug\net6.0-windows\Kalkulator6.genruntimeconfig.cache
+C:\Users\RaV21\source\repos\Kalkulator6\Kalkulator6\obj\Debug\net6.0-windows\ref\Kalkulator6.dll
